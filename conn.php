@@ -1,4 +1,4 @@
 <?php
- $conn = pg_connect("host=ec2-23-22-191-232.compute-1.amazonaws.com dbname=ddpnh3fllikoh9 user=qlacuryvjwfagg password=2b902a01a3f536a9bc5398855594f01f3b6932ee4df7906b980e69d3726c4715 port=5432");
- if(!$conn){echo "Lost Connect";} 
- ?>
+$conn = pg_connect("host=ec2-54-145-249-177.compute-1.amazonaws.com dbname=d7j76pvrbbruf1 port=5432 user=pgctruknafgbyl password=761b07a6272985b1dbd1157323d816331303f4e3a54b3f76b23bb4f460dd7351") 
+if(!$conn){echo "Loss connect";}
+ ?>}
